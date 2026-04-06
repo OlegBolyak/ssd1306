@@ -1,0 +1,12 @@
+../Core/Src/main.c:100:6:send_cmd	1
+../Core/Src/main.c:107:6:send_data	1
+../Core/Src/main.c:113:6:ssd1306_init	2
+../Core/Src/main.c:136:6:ssd1306_fill	3
+../Core/Src/main.c:144:6:ssd1306_clear	3
+../Core/Src/main.c:152:6:ssd1306_set_cursor	1
+../Core/Src/main.c:160:5:main	4
+../Core/Src/main.c:226:6:SystemClock_Config	3
+../Core/Src/main.c:265:13:MX_CRC_Init	2
+../Core/Src/main.c:291:13:MX_I2C1_Init	2
+../Core/Src/main.c:325:13:MX_GPIO_Init	1
+../Core/Src/main.c:348:6:Error_Handler	1
